@@ -1,8 +1,8 @@
-# Insights from the superstore sales dashboard
+## Insights from the superstore sales dashboard
 
-1. Highest sales were observed in the month of November.
+### 1. Highest sales were observed in the month of November.
 
-2. Lowest sales were observed in the month of February.
+### 2. Lowest sales were observed in the month of February.
 
 3. Consumer segment had maximum sales.
 
