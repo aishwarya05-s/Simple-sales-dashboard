@@ -1,0 +1,14 @@
+# Insights from the superstore sales dashboard
+
+1. Highest sales were observed in the month of November.
+
+2. Lowest sales were observed in the month of February.
+
+3. Consumer segment had maximum sales.
+
+4. Highest sales were from the west region and lowest from the south region.
+
+5. All categories have an approximate equal sales but technology being the highest of all,
+
+
+
